@@ -1,5 +1,13 @@
-import PortfolioContainer from "./components/PortfolioContainer";
+import { Outlet } from 'react-router-dom';
+import Nav from './components/Nav';
 
-const App = () => <PortfolioContainer />;
+function App() {
+    return (
+        <>
+            <Nav />
+            <Outlet />
+        </>
+    )
+}
 
 export default App;
