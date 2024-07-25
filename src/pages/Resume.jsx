@@ -1,7 +1,7 @@
 export default function ResumePage() {
     return (
         <div>
-         <h1>Resume</h1>
+         <h2>Resume</h2>
          <p>
             Add stuff later. I just need text here, right now. 
          </p>
