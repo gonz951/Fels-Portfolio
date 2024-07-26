@@ -9,7 +9,7 @@ export default function ResumePage() {
         </p>
         <p>
             <h3>Front-End Skills:</h3>
-            <ul className='skills'>
+            <ul className='darker'>
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>Bootstrap</li>
@@ -18,7 +18,7 @@ export default function ResumePage() {
                 <li>React</li>
             </ul>
             <h3>Back-End Skills:</h3>
-            <ul className='skills'>
+            <ul className='darker'>
                 <li>APIs</li>
                 <li>Node</li>
                 <li>Express</li>
