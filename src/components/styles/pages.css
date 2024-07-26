@@ -1,0 +1,11 @@
+.card {
+    margin: 30px;
+    border: 2px red solid;
+    display: block;
+    h2 {
+        font-size: 35px;
+        text-decoration: underline;
+        padding: 10px 0 10px 15px;
+        border: 2px red solid;
+    }
+}
