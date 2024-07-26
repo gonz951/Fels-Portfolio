@@ -5,7 +5,15 @@ export default function ContactPage() {
         <div className='card'>
          <h2>Contact Me</h2>
          <p>
-            Add stuff later. I just need text here, right now. 
+            <form className='contact'>
+                <label>Name:</label>
+                <input placeholder='Enter name'></input>
+                <label>Email:</label>
+                <input placeholder='Enter email'></input>
+                <label>Message:</label>
+                <textarea placeholder='Enter a message!'></textarea>
+                <button type='submit'>Submit</button>
+            </form>
          </p>
         </div>
     );
