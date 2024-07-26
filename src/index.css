@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    h1 {
+        font-size: 45px;
+        /* border: 2px red solid; */
+        /* text-decoration: underline;
+        text-decoration-thickness: 2px; */
+        /* padding-right: 30%; */
+    }
+    h2 {
+        font-size: 30px;
+    }
+    header {
+        padding: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        border: 2px red solid;
+        background-color: #21203b;
+    }
+    nav {
+        margin: 20px;
+        padding: 20px;
+        border: 2px red solid;
+    }
+}
+
+body {
+    background-color: rgb(80, 132, 154);
+}
