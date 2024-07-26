@@ -1,20 +1,19 @@
 .navbar {
     color: white;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 23px;
     padding: 10px; 
+    margin: 4px 7px;
     /* bubble */
-    background-color: #529cb1;
-    border-radius: 20px;
-    box-shadow: -2px -3px white;
+    background-color:  #84e4ff51;
+    border-radius: 25px;
+    box-shadow: -2px -3px white, 2px 3px #111932;
     display: inline-block;
 }
 
-@media screen and (max-width: 400px) {
-    /* ! NEED TO FIX THIS */
+@media screen and (max-width: 500) {
     .navbar {
-        display: flex;
-        padding: 10px;
         flex-direction: column;
+        width: 100%;
     }
 }
