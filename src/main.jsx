@@ -2,7 +2,7 @@ import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 // Might add a css library later
-import './portfolio.css';
+import './index.css';
 
 import App from './App';
 import ErrorPage from './pages/ErrorPage';

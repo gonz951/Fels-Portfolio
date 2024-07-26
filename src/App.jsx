@@ -4,7 +4,10 @@ import Nav from './components/Nav';
 function App() {
     return (
         <>
-            <Nav />
+            <header>
+                <h1>Paula 'Fel' Gonzalez</h1>
+                <Nav />
+            </header>
             <Outlet />
         </>
     )
