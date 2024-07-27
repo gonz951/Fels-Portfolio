@@ -41,9 +41,15 @@
 }
 
 .web-img {
+    
     width: 370px;
     margin: 20px;
 }
+
+/* .repos {
+    display: flex;
+    flex-direction: column;
+} */
 
 .contact {
     display: flex;

@@ -12,9 +12,9 @@ export default function PortfolioPage() {
             </p>
             <p>
                 <a href='https://gonz951.github.io/Start-Line/' target='_blank'><img src={StartLine} className="web-img" alt='Start-Line website image'/></a>
-
+                {/* Add repo links later */}
                 <a href='https://pennypacker.onrender.com/' target='_blank'><img src={PennyPacker} className='web-img' alt='PennyPacker website image'/></a>
-                {/* NEED TO ADD MORE PROJECTS LATER!! */}
+                {/* NEED TO ADD MORE PROJECTS */}
             </p>
          </div>
         </div>
