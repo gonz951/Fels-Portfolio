@@ -23,7 +23,7 @@
 }
 
 body {
-    background-color: rgb(80, 132, 154);
+    background-image: linear-gradient(rgb(96, 151, 175), #202347);
 }
 
 /* @media screen and (max-width: 555) {
