@@ -29,6 +29,8 @@ The contact page. It has a simple form that accepts (requires) a name, email, an
 
 The resume page. While my resume isn't visible, it's easily downloadable if one were to click the underlined 'download' text. It also has a short list of my technical skills if the resume isn't needed.
 
+To seal it all off, the footer contains a couple links to my GitHub and LinkedIn. 
+
 ## License
 
 https://choosealicense.com/licenses/mit/
