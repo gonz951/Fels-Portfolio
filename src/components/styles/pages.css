@@ -40,6 +40,11 @@
     border: 5px white dotted;
 }
 
+.web-img {
+    width: 370px;
+    margin: 20px;
+}
+
 .contact {
     display: flex;
     flex-direction: column;
