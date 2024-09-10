@@ -41,9 +41,9 @@ export default function ContactPage() {
         }
 
         if (!data.email.trim()) {
-            errors.email = 'An Email is required'; 
+            errors.email = 'An email is required'; 
         } else if (!/\S+@\S+\.\S+/.test(data.email)) {
-            errors.email = 'This Email is invalid.';
+            errors.email = 'This email is invalid.';
         }
 
         if (!data.message) {
@@ -70,7 +70,6 @@ export default function ContactPage() {
                 />
                 {errors.name && (
                     <span className='error-message'>
-                        {/* NEED TO MAKE THIS CLASS!! */}
                         {errors.name}
                     </span>
                 )}
