@@ -2,7 +2,7 @@ import '../components/styles/pages.css';
 import StartLine from '../components/assets/Start-Line.png'
 import PennyPacker from '../components/assets/PennyPacker.png'
 // Make rig builder pro image
-import RigBuilderPro from '../ADD IMAGE !!'
+import RigBuilderPro from '../components/assets/Rig-BuilderPro.png'
 
 export default function PortfolioPage() {
     return (
@@ -10,7 +10,7 @@ export default function PortfolioPage() {
          <h2>Portfolio</h2>
          <div>
             <p className='darker'>
-                The pieces in my portfolio will be seperated into two categories. The first is Group Work (created it with 4 people), and the second is individual work. 
+                My portfolio consists of many roles I've taken on in group projects. From dealing with simple javascript and APIs, coding routes and logins, to creating a professional README. All these websites were created through group projects, their end products a testament to easy teamwork and understanding.
             </p>
             <p>
                 <a href='https://gonz951.github.io/Start-Line/' target='_blank'><img src={StartLine} className="web-img" alt='Start-Line website image'/></a>
