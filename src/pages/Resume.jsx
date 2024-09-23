@@ -5,7 +5,7 @@ export default function ResumePage() {
         <div className='card'>
          <h2>Resume</h2>
          <p>
-            A resume is available to be <a href='https://drive.google.com/uc?export=download&id=15-nzN9JM-fUKOfS3lDthf8wrgKheAYm1'>downloaded</a> if needed. However, a brief list of skills might give you a good idea of what's in there.
+            A resume is available to be <a href='https://drive.google.com/uc?export=download&id=1T8lSL63fa5_t6Ji0WLY_CISwqW9mp8Zw'>downloaded</a> if needed. However, a brief list of skills might give you a good idea of what's in there.
         </p>
         <p>
             <h3>Front-End Skills:</h3>
